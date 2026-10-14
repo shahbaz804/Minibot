@@ -7,8 +7,8 @@ src="https://files.catbox.moe/1enaz9.png">
 
 <p align="center">
 <a href="https://github.com/shahbaz804"><img title="Author" src="https://img.shields.io/badge/Kelvin%20Tech-6A5ACD?style=for-the-badge&logo=github&logoColor=white"></a> 
-<a href="https://youtube.com/@shahbazeditx786"><img title="Author" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-<a href="https://wa.me/256742932677"><img title="Author" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.youtube.com/@shahbzeditx786"><img title="Author" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+<a href="923203734432"><img title="Author" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p> 
 
 <p align="center">
