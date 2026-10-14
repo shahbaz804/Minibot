@@ -1,0 +1,20 @@
+{
+  "name": "🦋⍣⃝BROKEN BAN BOT🕊   ",
+  "description": "Professional WhatsApp Bot with auto-session authentication",
+  "repository": "https://github.com/Kevintech-hub/Jexploit-Bot",
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "npm install"
+  },
+  "deploy": {
+    "startCommand": "node index.js",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  },
+  "variables": {
+    "SESSION_ID": {
+      "description":  "Session id must begin with JEXPLOIT-BOT~ or VESPER-BOT:~",
+      "required": true
+    }
+  }
+}
