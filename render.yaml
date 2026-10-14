@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: Jexploit 
+    name: BROKEN MINI BOT 
     env: docker
     region: frankfurt
     plan: free
