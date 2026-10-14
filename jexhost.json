@@ -1,6 +1,6 @@
 {
-  "bot-name": "shahbazjatoi",
-  "owner-verification": "shahbazjatoi570@gmail.com",
+  "bot-name": "Jexploit",
+  "owner-verification": "techkevin93@gmail.com",
   "tagline": "Advanced Whatsapp bot made with much love from Uganda",
   "documentation-link": "https://github.com/Kevintech-hub/Jexploit-Bot#readme",
   "session-helper-url": "https://jexploit-pair.kevintech.space",
@@ -14,12 +14,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "SHAHBAZ JATOI"
+      "value": "Kevin Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "923203734432"
+      "value": "256742932677"
     },
     "MODE": {
       "description": "'public' to respond to everyone, 'private' to respond to the owner only",

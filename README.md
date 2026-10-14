@@ -6,28 +6,28 @@ src="https://files.catbox.moe/1enaz9.png">
 <br/>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub"><img title="Author" src="https://img.shields.io/badge/Kelvin%20Tech-6A5ACD?style=for-the-badge&logo=github&logoColor=white"></a> 
-<a href="https://youtube.com/@kelvindev-f1x?si=twHVU-yKVa0eXtm3"><img title="Author" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+<a href="https://github.com/shahbaz804"><img title="Author" src="https://img.shields.io/badge/Kelvin%20Tech-6A5ACD?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://youtube.com/@shahbazeditx786"><img title="Author" src="https://img.shields.io/badge/YT%20CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 <a href="https://wa.me/256742932677"><img title="Author" src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p> 
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=6A5ACD&style=flat-square&label=Followers"></a>
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Stars"></a>
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Forks"></a>
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Jexploit-Bot?label=Watchers&color=6A5ACD&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Jexploit-Bot?style=flat-square&color=6A5ACD"></a>
+<a href="https://github.com/shahbaz804/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=6A5ACD&style=flat-square&label=Followers"></a>
+<a href="https://github.com/shahbaz804"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Stars"></a>
+<a href="https://github.com/shahbaz804/Minibot.git/network/member"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Forks"></a>
+<a href="https://github.com/shahbaz804/Minibot.git/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Jexploit-Bot?label=Watchers&color=6A5ACD&style=flat-square"></a>
+<a href="https://github.com/shahbaz804/Minibot.git"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Jexploit-Bot?style=flat-square&color=6A5ACD"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FJexploit-Bot&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Kevintech-hub/Jexploit-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-6A5ACD.svg"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD"></a>
+<a href="https://github.com/shahbaz804/Minibot.git"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD"></a>
 <img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=6A5ACD" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor" /></a>
+<a href="https://github.com/shahbaz804/Minibot.git"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -46,7 +46,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <p align="center">
 <strong>2. GET SESSION ID</strong>
 <br>
-<a href="https://jexploit-pair.kevintech.space" target="_blank">
+<a href="https://shahbazfreehosting.site.je/view.php?site=pairweb" target="_blank">
 <img alt="WEBSITE" src="https://img.shields.io/badge/GET%20PAIR%20CODE-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=FF6B6B&color=FF6B6B"/>
 </a>
 </p>
@@ -54,7 +54,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <p align="center">
 <strong>3. GET SESSION ID (ALTERNATIVE)</strong>
 <br>
-<a href="https://vesper-xmd-pair.kevintech.space" target="_blank">
+<a href="https://shahbazfreehosting.site.je/view.php?site=pairweb" target="_blank">
 <img alt="PAIR2" src="https://img.shields.io/badge/ALTERNATIVE%20PAIR-100000?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=4ECDC4&color=4ECDC4"/>
 </a>
 </p>
@@ -95,7 +95,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <h3 align="center">🚀 Fork the Repository</h3>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Jexploit-Bot" /></a>
+<a href="https://github.com/shahbaz804/BROKEN-MINI-BOT/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Jexploit-Bot" /></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -110,18 +110,18 @@ src="https://files.catbox.moe/1enaz9.png">
 <br>
 <sub>Download bot files for panel hosting</sub>
 <br>
-<a href="https://github.com/Kevintech-hub/Jexploit-Bot/archive/refs/heads/main.zip">
+<a href="https://github.com/shahbaz804/Minibot.git/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
 
-<!-- JEXPLOIT PLATFORM DEPLOYMENT -->
+<!-- BROKEN MINI BOT PLATFORM DEPLOYMENT -->
 <p align="center">
-<strong>🚀 JEXPLOIT PLATFORM DEPLOYMENT</strong>
+<strong>🚀 BROKEN MINI BOT PLATFORM DEPLOYMENT</strong>
 <br>
-<sub>Deploy directly on Jexploit hosting platform</sub>
+<sub>Deploy directly on BROKEN MINI BOT hosting platform</sub>
 <br>
 <a href="https://hostnest.jexp.top" target="_blank">
 <img src="https://img.shields.io/badge/DEPLOY%20ON%20JEXPLOIT-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white"/>
@@ -136,7 +136,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <br>
 <sub>Deploy directly to Heroku cloud</sub>
 <br>  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot/tree/main' target="_blank">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/shahbaz804/Minibot.git/tree/main' target="_blank">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </a>  
 </p>
@@ -175,7 +175,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <br>
 <sub>Deploy on Railway platform</sub>
 <br>
-<a href="https://railway.app/new?template=https://github.com/Kevintech-hub/Jexploit-Bot">
+<a href="https://railway.app/new?template=https://github.com/shahbaz804/Minibot.git">
   <img src="https://img.shields.io/badge/Deploy%20on%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 
 <a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
@@ -186,7 +186,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <br>
 <sub>Deploy on Render cloud platform</sub>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Kevintech-hub/Jexploit-Bot">
+<a href="https://render.com/deploy?repo=https://github.com/shahbaz804/Minibot.git">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </a>
 </p>
@@ -199,7 +199,7 @@ src="https://files.catbox.moe/1enaz9.png">
 <br>
 <sub>Deploy on Koyeb platform</sub>
 <br>
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/Kevintech-hub/Jexploit-Bot">
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/shahbaz804/Minibot.git">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
 </a>
 </p>

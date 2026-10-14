@@ -1,5 +1,5 @@
 /*
- * Protected by Shahbaz Jatoi 
+ * Protected by BROKEN MINI BOT
  * Protection Level: Advanced
  * Generated: 2026-02-21T08:53:07.749Z
  * Warning: Unauthorized reverse engineering is prohibited

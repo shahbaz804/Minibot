@@ -1,7 +1,7 @@
 {
   "name": "🦋⍣⃝BROKEN BAN BOT🕊   ",
   "description": "Professional WhatsApp Bot with auto-session authentication",
-  "repository": "https://github.com/Kevintech-hub/Jexploit-Bot",
+  "repository": "https://github.com/shahbaz804/Minibot.git",
   "build": {
     "builder": "NIXPACKS",
     "buildCommand": "npm install"
@@ -13,7 +13,7 @@
   },
   "variables": {
     "SESSION_ID": {
-      "description":  "Session id must begin with JEXPLOIT-BOT~ or VESPER-BOT:~",
+      "description":  "Session id must begin with BROKEN MINI BOT~ or BROKEN MINI BOT:~",
       "required": true
     }
   }

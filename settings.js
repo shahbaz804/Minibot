@@ -1,5 +1,5 @@
 // settings.js
-// credit by Kelvin tech 
+// credit by BROKEN MINI BOT
 
 const config = require('./config');
 
