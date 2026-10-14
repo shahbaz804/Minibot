@@ -1,27 +1,17 @@
 {
-  "name": "broken-pair-site,
-  "version": "0.0.1",
+  "name": "broken-pair-site",
+  "version": "1.0.0",
   "description": "A multi functional whatsapp bot Web paircode Created By BROKEN-MINI-BOT Official.",
-  "main": "arslan.js",
+  "main": "broken.js",
   "scripts": {
-    "start": "pm2 start arslan.js --deep-monitoring --attach --name BROKEN-MINI-BOT",
-    "stop": "pm2 stop BROKEN-MINI-BOT",
-    "restart": "pm2 restart Arslan-MD"
+    "start": "node broken.js",
+    "dev": "node broken.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:wileys",              
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "qrcode": "^1.5.3",
-    "awesome-phonenumber": "^2.64.0",
-    "pino": "^8.1.0",
-    "phone": "3.1.30",
-    "body-parser": "^1.20.1",
-    "express": "^4.18.1",
-    "path": "^0.12.7",
-    "pastebin-js": "latest",
-    "megajs": "1.1.7",
-    "pm2": "^6.0.6",
-    "jimp": "^0.16.1",
-    "async-mutex": "0.4.1"
+    "@whiskeysockets/baileys": "^6.7.9",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "pino": "^8.14.1",
+    "qrcode": "^1.5.3"
   }
 }

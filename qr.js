@@ -1,19 +1,14 @@
-const PastebinAPI = require('pastebin-js'),
-pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL')
-const {makeid} = require('./id');
+const { makeid } = require('./id');
 const QRCode = require('qrcode');
 const express = require('express');
-const path = require('path');
 const fs = require('fs');
-let router = express.Router()
+let router = express.Router();
 const pino = require("pino");
 const {
 	default: BROKEN_MINI_BOT,
 	useMultiFileAuthState,
-	jidNormalizedUser,
 	Browsers,
 	delay,
-	makeInMemoryStore,
 } = require("@whiskeysockets/baileys");
 
 function removeFile(FilePath) {
@@ -23,9 +18,7 @@ function removeFile(FilePath) {
 		force: true
 	})
 };
-const {
-	readFile
-} = require("node:fs/promises")
+
 router.get('/', async (req, res) => {
 	const id = makeid();
 	async function BROKEN_MINI_BOT_QR_CODE() {
@@ -55,10 +48,10 @@ router.get('/', async (req, res) => {
 					await delay(5000);
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
-				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_BROKEN_MINI_BOT.sendMessage(Qr_Code_By_BROKEN_MINI_BOT.user.id, { text: 'BROKEN_MINI_BOT~' + b64data });
-	
-				   let BROKEN_MINI_BOT_TEXT = `
+					let b64data = Buffer.from(data).toString('base64');
+					let session = await Qr_Code_By_BROKEN_MINI_BOT.sendMessage(Qr_Code_By_BROKEN_MINI_BOT.user.id, { text: 'BROKEN_MINI_BOT~' + b64data });
+
+					let BROKEN_MINI_BOT_TEXT = `
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
 ║ ✨BROKEN_MINI_BOT🔷
@@ -71,7 +64,7 @@ router.get('/', async (req, res) => {
 ╔════════════════════◇
 ║『 YOU'VE CHOSEN BROKEN_MINI_BOT 』
 ║ -Set the session ID in Heroku:
-║ - SESSION_ID: 
+║ - SESSION_ID: BROKEN_MINI_BOT~${b64data.substring(0, 60)}...
 ╚════════════════════╝
 ╔════════════════════◇
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
@@ -90,7 +83,8 @@ router.get('/', async (req, res) => {
 
 Don't Forget To Give Star⭐ To My Repo
 ______________________________`;
-	 await Qr_Code_By_BROKEN_MINI_BOT.sendMessage(Qr_Code_By_BROKEN_MINI_BOTuser.id,{text:BROKEN_MINI_BOT_TEXT},{quoted:session})
+					// FIX: was "Qr_Code_By_BROKEN_MINI_BOTuser.id" (missing dot)
+					await Qr_Code_By_BROKEN_MINI_BOT.sendMessage(Qr_Code_By_BROKEN_MINI_BOT.user.id, { text: BROKEN_MINI_BOT_TEXT }, { quoted: session });
 
 
 

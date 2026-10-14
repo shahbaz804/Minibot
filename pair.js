@@ -1,5 +1,3 @@
-const PastebinAPI = require('pastebin-js');
-const pastebin = new PastebinAPI('EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL');
 const { makeid } = require('./id');
 const express = require('express');
 const fs = require('fs');
@@ -21,7 +19,12 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    
+
+    // FIX: missing number parameter would crash num.replace()
+    if (!num) {
+        return res.status(400).send({ code: 'Please provide number, e.g. /code?number=923001234567' });
+    }
+
     async function BROKEN_MINI_BOT_PAIR_CODE() {
         const { state, saveCreds } = await useMultiFileAuthState('./temp/' + id);
         try {
@@ -55,7 +58,7 @@ router.get('/', async (req, res) => {
                     let session = await Pair_Code_By_BROKEN_MINI_BOT.sendMessage(Pair_Code_By_BROKEN_MINI_BOT.user.id, { text: 'BROKEN_MINI_BOT~' + b64data });
 
                     let BROKEN_MINI_BOT_TEXT = `
-        
+
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
 ║ ✨ BROKEN-MINI-BOT🔷
@@ -68,7 +71,7 @@ router.get('/', async (req, res) => {
 ╔════════════════════◇
 ║『 YOU'VE CHOSEN BROKEN_MINI_BOT』
 ║ -Set the session ID in Heroku:
-║ - SESSION_ID: 
+║ - SESSION_ID: BROKEN_MINI_BOT~${b64data.substring(0, 60)}...
 ╚════════════════════╝
 ╔════════════════════◇
 ║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
@@ -87,10 +90,12 @@ router.get('/', async (req, res) => {
 Don't Forget To Give Star⭐ To My Repo
 ______________________________`;
 
-                    await Pair_Code_By_BROKEN_MINI_BOT.sendMessage(Pair_Code_By_BROKEN_MINI_BOT.user.id, { text: Toxic_MD_TEXT }, { quoted: session });
+                    // FIX: was Toxic_MD_TEXT (undefined) -> BROKEN_MINI_BOT_TEXT
+                    await Pair_Code_By_BROKEN_MINI_BOT.sendMessage(Pair_Code_By_BROKEN_MINI_BOT.user.id, { text: BROKEN_MINI_BOT_TEXT }, { quoted: session });
 
                     await delay(100);
-                    await Pair_Code_By_BROKEN_Tech.ws.close();
+                    // FIX: was BROKEN_Tech.ws.close() (undefined) -> correct socket
+                    await Pair_Code_By_BROKEN_MINI_BOT.ws.close();
                     return await removeFile('./temp/' + id);
                 } else if (connection === 'close' && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
@@ -98,14 +103,14 @@ ______________________________`;
                 }
             });
         } catch (err) {
-            console.log('Service restarted');
+            console.log('Service restarted:', err.message);
             await removeFile('./temp/' + id);
             if (!res.headersSent) {
                 await res.send({ code: 'Service Currently Unavailable' });
             }
         }
     }
-    
+
     return await BROKEN_MINI_BOT_PAIR_CODE();
 });
 
