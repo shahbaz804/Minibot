@@ -1,33 +1,19 @@
+
 {
-  "name": "Broken",
-  "description": "Jexploit advanced Whatsapp bot!",
-  "keywords": [],
-  "repository": "https://github.com/shahbaz804/Minibot.git",
-  "stack": "heroku-24",
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
-  ],
-  "scripts": {
-    "start": "node index.js"
-  },
-  "env": {
-    "SESSION_ID": {
-      "description": "Session id must start with: BROKEN MINI BOT, BROKEN MINI BOT, BROKEN MINI BOT, BROKEN MINI BOT, or kevin~",
-      "value": "",
-      "required": false
-    }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
+    "name": "broken-mini-bot,
+    "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
+    "repository": "https://github.com/shahbaz804/Minibot.git",
+    "logo": "https://files.catbox.moe/1enaz9.png",
+    "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ]
-}
+          }
+     ]
+} 
